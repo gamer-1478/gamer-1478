@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey There! I am Aayush Garg.
+
+I am currently a high school student studying at Amity International School, Sector 46 Gurgaon. 
+
+I am interested in Web Development and App Development. I am also keenly interested in how systems interact and how they are scalable and redundant. I primarily work with Node.js and its libraries such as React, Express, Vue etc. 
+
+[![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamer-1478)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gamer-1478/gamer-1478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
