@@ -7,6 +7,9 @@ I am interested in Web Development and App Development. I am also keenly interes
 [![Aayush's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gamer-1478)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://hit.yhype.me/github/profile?user_id=74775129)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamer-1478)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![](https://komarev.com/ghpvc/?username=gamer-1478&color=16e16e)
 
 <!--
