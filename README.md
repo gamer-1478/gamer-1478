@@ -1,6 +1,6 @@
 ### Hey There! I am Aayush Garg.
 
-I am currently a high school student studying at Amity International School, Sector 46 Gurgaon. 
+I am currently a student studying at UMass, Amherst, MA. 
 
 I am interested in Web Development and App Development. I am also keenly interested in how systems interact and how they are scalable and redundant. I primarily work with Node.js and its libraries such as React, Express, Vue etc. 
 
